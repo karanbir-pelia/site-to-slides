@@ -1,5 +1,5 @@
-# alai-backend-challenge
-Solution for ALAI Backend Challenge
+# Site to Slides
+A fully automated URL to presentation creator.
 
 # Webpage to Alai Presentation Converter
 
